@@ -1,0 +1,10 @@
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\bin\Debug\KLCToolbox.exe.config
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\bin\Debug\KLCToolbox.exe
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\bin\Debug\KLCToolbox.pdb
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.Form1.resources
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.Properties.Resources.resources
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.csproj.GenerateResource.cache
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.csproj.CoreCompileInputs.cache
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.exe
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.pdb
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.KLCControls.KLCTextBox.resources

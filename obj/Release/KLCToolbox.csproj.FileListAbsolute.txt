@@ -1,0 +1,9 @@
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\bin\Release\KLCToolbox.dll
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\bin\Release\KLCToolbox.pdb
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Release\KLCToolbox.csproj.AssemblyReference.cache
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Release\KLCToolbox.KLCControls.KLCTextBox.resources
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Release\KLCToolbox.Properties.Resources.resources
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Release\KLCToolbox.csproj.GenerateResource.cache
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Release\KLCToolbox.csproj.CoreCompileInputs.cache
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Release\KLCToolbox.dll
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Release\KLCToolbox.pdb
