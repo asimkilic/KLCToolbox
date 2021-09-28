@@ -250,6 +250,13 @@ namespace KLCToolbox.KLCControls
             }
         }
 
+        public void Clear()
+        {                
+            textBox1.Text = string.Empty;
+           
+        }
+        
+
         //Overriden methods
 
         protected override void OnResize(EventArgs e)
