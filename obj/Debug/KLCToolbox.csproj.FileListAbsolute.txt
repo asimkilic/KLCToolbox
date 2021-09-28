@@ -8,3 +8,9 @@ C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug
 C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.exe
 C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.pdb
 C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\KLCToolbox\KLCToolbox\obj\Debug\KLCToolbox.KLCControls.KLCTextBox.resources
+C:\Users\kagan\Source\Repos\KLCToolbox\obj\Debug\KLCToolbox.csproj.AssemblyReference.cache
+C:\Users\kagan\Source\Repos\KLCToolbox\obj\Debug\KLCToolbox.KLCControls.KLCTextBox.resources
+C:\Users\kagan\Source\Repos\KLCToolbox\obj\Debug\KLCToolbox.Properties.Resources.resources
+C:\Users\kagan\Source\Repos\KLCToolbox\obj\Debug\KLCToolbox.csproj.GenerateResource.cache
+C:\Users\kagan\Source\Repos\KLCToolbox\obj\Debug\KLCToolbox.csproj.CoreCompileInputs.cache
+C:\Users\kagan\Source\Repos\KLCToolbox\obj\Debug\KLCToolbox.pdb
